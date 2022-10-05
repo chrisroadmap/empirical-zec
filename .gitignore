@@ -1,3 +1,7 @@
+# large intermediate data files we don't want to commit
+data/20220314_ar6emissions_harmonized_infilled.xlsx
+data/step1.csv
+
 # OS-specific junk
 .DS_Store
 Thumbs.db
