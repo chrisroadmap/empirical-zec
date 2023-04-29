@@ -5,6 +5,7 @@ channels:
   - defaults
 dependencies:
   - fair==2.1.0
+  - iris
   - jupyter
   - nbstripout
   - matplotlib
