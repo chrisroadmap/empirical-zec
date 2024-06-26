@@ -1,10 +1,8 @@
 name: empirical-zec
 channels:
-  - chrisroadmap
   - conda-forge
-  - defaults
 dependencies:
-  - fair==2.1.0
+  - fair==2.1.4
   - iris
   - jupyter
   - nbstripout
