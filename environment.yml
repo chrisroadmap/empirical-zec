@@ -2,7 +2,7 @@ name: empirical-zec
 channels:
   - conda-forge
 dependencies:
-  - fair==2.1.4
+  - fair==2.2.0
   - iris
   - jupyter
   - nbstripout
