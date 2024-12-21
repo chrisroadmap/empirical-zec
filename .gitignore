@@ -11,6 +11,7 @@ data_input/rcmip/
 
 # You may want to ignore some large data output files too if they are reproducible
 # data_output/<insert subdir here>
+data/*.nc
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
